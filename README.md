@@ -20,3 +20,5 @@ You need to require the bootstrap assets into your manifests.
 Once those are there demonstrate how you can utilize and rely on bootstrap classes and javascript to turn your site into something powered by bootstrap.
 
 You can very much follow the flow of https://github.com/RailsApps/rails-bootstrap
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/bootstrap-asset-pipeline' title='Bootstrap Asset Pipeline'>Bootstrap Asset Pipeline</a> on Learn.co and start learning to code for free.</p>
