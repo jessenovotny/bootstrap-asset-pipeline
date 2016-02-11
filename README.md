@@ -8,7 +8,7 @@
 4. Rely on bootstrap provided CSS and javascript to power the frontend.
 
 ## Outline
-Starting a web application can be overwhelming. There so many descisions to make that it can be hard to manage. The last thing we want is to make a great application that looks terrible and doesn't respond to well to different screen sizes. It would be great if we could just add something to our application that made structuring our UI as easy as Rails makes everything else. [Twitter Bootstrap](http://getbootstrap.com/) does just that. It's a grid based CSS framework that provides the ability to create great looking, responsive web sites.
+Starting a web application can be overwhelming. There are so many descisions to make that it can be hard to manage. The last thing we want is to make a great application that looks terrible and doesn't respond to well to different screen sizes. It would be great if we could just add something to our application that made structuring our UI as easy as Rails makes everything else. [Twitter Bootstrap](http://getbootstrap.com/) does just that. It's a grid based CSS framework that provides the ability to create great looking, responsive web sites.
 
 [Twitter Bootstrap](http://getbootstrap.com/) has some really good documentation as well. If you browse to their site and click on [CSS](http://getbootstrap.com/css/) in the menu you will see how to structure your HTML and CSS in a way that allows for easy responsive UI.
 
@@ -32,7 +32,7 @@ and a `<script>` tag at the bottom of the `<body>` tag.
 </body>
 ```
 
-The second preferred way is to use a gem. To do this, include the following in our Gemfile .
+Our preferred way is to use a gem. To do this, include the following in our Gemfile .
 
 ```ruby
 gem 'bootstrap-sass'
@@ -100,7 +100,7 @@ Each column would be vary narrow and probably not be able to fit much content. I
   </div>
 </body>
 ```
-Notice how instead of 12 `<div>` tags with the CSS class `col-lg-1` we use 2 `<div>` tags with the CSS class `col-lg-6`. The combined total of these two columns is still 12. This is an important aspect about Bootstrap. We should always be able to add the columns together to get a total of 12. 
+Notice how instead of 12 `<div>` tags with the CSS class `col-lg-1` we use 2 `<div>` tags with the CSS class `col-lg-6`. The combined total of these two columns is still 12. This is an important aspect of Bootstrap. We should always be able to add the columns together to get a total of 12. 
 
 From here there is a lot of different ways we could configure our grid to respond to different screen sizes in different ways. Refer back to the documentation and examples to help.
 
