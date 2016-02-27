@@ -12,7 +12,7 @@ Starting a web application can be overwhelming. There are so many descisions to 
 
 [Twitter Bootstrap](http://getbootstrap.com/) has some really good documentation as well. If you browse to their site and click on [CSS](http://getbootstrap.com/css/) in the menu you will see how to structure your HTML and CSS in a way that allows for easy responsive UI.
 
-If you click on [Components](http://getbootstrap.com/components/), you will see how to use all the resuable components that Bootstrap provides. These are common parts of web sites like buttons, dropdowns and navigation.
+If you click on [Components](http://getbootstrap.com/components/), you will see how to use all the reusable components that Bootstrap provides. These are common parts of web sites like buttons, dropdowns and navigation.
 
 Finally, if you click on [JavaScript](http://getbootstrap.com/javascript/) you will see how to use Bootstrap's JavaScript component to enhance our application. It makes creating modals and collapsing menus super easy.
 
@@ -110,3 +110,5 @@ From here there is a lot of different ways we could configure our grid to respon
 - [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/bootstrap-asset-pipeline' title='Bootstrap Asset Pipeline'>Bootstrap Asset Pipeline</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/bootstrap-asset-pipeline'>Bootstrap and the Asset Pipeline</a> on Learn.co and start learning to code for free.</p>
